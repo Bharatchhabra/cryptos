@@ -1,0 +1,15 @@
+body{ font-family: 'Barlow'!important;background: url('./assets/images/CryptoSlut-background/outer-bg.jpg');
+    background-repeat: repeat-y; 
+    background-size: cover;
+    background-position: top;}
+/* .homepage{background: url('./assets/images/CryptoSlut-background/outer-bg.jpg');
+    background-repeat: repeat-y; 
+    background-size: cover;
+    background-position: top;}
+.mintpage{background: url('./assets/images/CryptoSlut-background/outer-bg.jpg');
+    background-repeat: repeat;background-size: cover;background-position: top;} */
+.content{background: url('./assets/images/CryptoSlut-background//inner-bg.png'); background-repeat: no-repeat;}
+.clearfix{clear: both;}
+.container{background-size: cover !important;} 
+@font-face { font-family: 'Barlow'; src: url("./assets/fonts/Barlow/Barlow-Regular.ttf") format("truetype")}
+a:-webkit-any-link {cursor: pointer!important;}

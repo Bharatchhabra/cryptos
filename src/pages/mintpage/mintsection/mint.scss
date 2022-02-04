@@ -1,0 +1,18 @@
+@mixin fonts {font-weight: bold;font-size: 42px;line-height: 50px;
+    text-align: center;color: #FFFFFF;}
+.mint_heading{@include fonts;margin-bottom: 10px;text-shadow: 0px 7px 371px rgba(54, 153, 254, 0.351852), 0px 4.8044px 215.987px rgba(54, 153, 254, 0.748148), 0px 3.55185px 114.048px #3699FE, 0px 2.84375px 53.3312px #3699FE, 0px 2.28148px 21.9852px #3699FE, 0px 1.46644px 8.15856px #3699FE;}
+.mint_section_heading{@include fonts;margin-bottom: 15px;}
+.heading_shadow{font-weight: 900;font-size: 42px;line-height:50px;
+    text-align: center;letter-spacing: 0.095em;padding-bottom: 20px;
+    // border: 3px solid #ECD4FF;
+    text-shadow: 0px 7px 371px rgba(240, 92, 245, 0.351852), 0px 4.8044px 215.987px rgba(240, 92, 245, 0.748148), 0px 3.55185px 114.048px #F05CF5, 0px 2.84375px 53.3312px #F05CF5, 0px 2.28148px 21.9852px #F05CF5, 0px 1.46644px 8.15856px #F05CF5;}
+.mint_btn{text-align: center;}
+.footer_mint_table{position: absolute;bottom: 98px;z-index: 9;}
+.mint_page_footer{padding-top: 20px;}
+// .texture_top{background: url('../../../assets/images/CryptoSlut-background/texture_top.png'); background-repeat: no-repeat;background-size: contain!important;}
+.slider_mintsection{padding: 130px 0 40px!important;}
+.mint_content{padding-bottom: 4rem; z-index: -1;}
+.newsletter_content{padding: 100px 0 80px;position: relative; top: -132px; z-index: -1;}
+.mint_footer{top: -153px!important;}
+.mint__footer{top: -195px;position: relative;}
+.single_bulb{position: absolute;top: -711px;}

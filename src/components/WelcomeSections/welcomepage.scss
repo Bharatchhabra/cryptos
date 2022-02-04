@@ -1,0 +1,69 @@
+.welcome-heading {text-align: center;
+h1{ font-size: 72px; line-height: 86px; text-transform: uppercase; font-weight:700;}
+.sec-subheading{font-size: 40px;font-weight: 900;margin-top:70px; margin-bottom:35px;} 
+p{ font-size: 25px; line-height: 31px;}}
+.community-box {background: linear-gradient(100.1deg, #26336B -1.55%, #0B153C 23.9%, #0B153C 35.05%, #080F2C 50.82%, #060C24 70.06%, #0B153D 84.87%, #1E2B62 102.8%) padding-box, linear-gradient(102.44deg,#02f0ff 1.07%,#d71dd2 25.54%,#ff48fa 43.88%,#2c91ef 73.44%,#57c6f5 95.87%,#3dbacb 98.93%)border-box; color: #fff;padding: 40px 60px;border: 20px solid transparent;border-radius: 40px;margin: 75px 0;}
+.box-heading {font-size: 42px;line-height: 50px;font-weight: 900;}
+.box-p {font-size: 28px;line-height: 36px;}
+.box-pera{font-size: 22px;line-height: 26px;}
+.boxtwo-pera{font-size: 26px;line-height: 31px;}
+.community-boxtwo {background: linear-gradient(100.1deg, #26336B -1.55%, #0B153C 23.9%, #0B153C 35.05%, #080F2C 50.82%, #060C24 70.06%, #0B153D 84.87%, #1E2B62 102.8%)  padding-box, linear-gradient(101.06deg, #F05CF5 -20.38%, #19A1EF 54.29%) border-box;color: #fff;padding: 40px 60px;border: 4px solid transparent;border-radius: 40px;margin: 75px 0;}
+.img-fluid{max-width: 100%;height: auto;}
+.heading-h3{font-size: 42px;font-weight: 700;}
+.newsletter{padding-bottom: 50px;}
+.counter_item{text-align:center;border: 4px solid #FBCA77;border-radius: 10px;
+  background: linear-gradient(180deg, #E9800F 0%, rgba(233, 146, 15, 0.69) 0.01%, #FFAF36 100%); box-shadow: 0px 0px 20px #F89E34;margin: 15px;width:143px;color: #fff;padding:20px}
+.countdown_tag{font-size: 24px;font-weight: 600;}
+.numbers{font-size:52px;font-weight: 600;line-height:1.1;}
+.countdown_top{color: #fff}
+.msg_girl{max-width: 100%;min-width: 417px;margin-top: 30px;}
+.club_growth{margin-top: 25px;padding-right: 10px;}
+
+
+
+
+@media only screen and (max-width: 600px) {
+  .community-boxtwo {padding: 40px 20px;}
+  .community-box {padding: 40px 20px;}
+  .imagetable {top: -48px;}
+  .blackgirl {left: -22px;top: 0;}
+  .pinkgirl {right: -22px;top: 0;}
+  .inputbtn{text-align: center;}
+  .image_table {top: -15px;}
+  .ontop_section {bottom: -35px;}
+  .msg_girl{min-width: 100%;}
+  .header{height: 120vh;}
+  .main_content{background-repeat: no-repeat;height: 100%;background-size: contain;background-position: center;}
+  .sec_table { top: 170px;}
+  .right-border{margin-top: 0;}
+  .navlink a{line-height: 0;}
+  .community-box{margin: 40px 20px;border: 6px solid transparent;border-radius:12px;}
+  .community-boxtwo{margin: 40px 20px;border: 2px solid transparent;border-radius:12px;}
+  .box-heading{font-size: 16px;line-height: 19px;text-align: center;}
+  .header{height: auto;padding: 0 0 30px 0;}
+  .box-p{font-weight: 600;font-size: 14px;line-height: 17px;
+    text-align: center;}
+  .box-pera{font-weight: 600;font-size: 14px;line-height: 17px;
+    text-align: center; br{display: none;}}
+  .boxtwo-pera{font-weight: 600;font-size: 14px;line-height: 17px;
+   br{display: none;}}
+  .welcome-heading {padding: 0 20px; h1{font-weight: bold;font-size: 18px;line-height: 22px;} p{font-weight: 600;font-size: 12px;line-height: 14px;text-align: center; br{display: none;}} }
+  .tablegallery{background-size: contain;}
+  .image_gallery{padding: 0 20px;}
+  .footer_right_border{margin: 21px 0px!important;}
+  .pera{font-style: normal;font-weight: 600;font-size: 14px!important;line-height: 17px!important;text-align: center;}
+  .counter_item{width: 51px;height: 50px;margin: 0 8px;border-radius: 6px;}
+  .countdown_tag{font-size: 8px;}
+  .numbers{font-size: 14px;}
+  .countdown_top{font-size: 18px;padding: 0;}
+  .logo{width: 81px;height: 43px;}
+  .club_growth{margin: 0 0 15px 0;}
+  .input-btn{margin-top: 15px;border-radius: 0!important;}
+  .secpera{font-size: 14px!important;line-height: 16px!important;}
+  .form-control{border-radius: 0!important;}
+  .whitelist{padding: 0;}
+  .bubble{display: none;}
+  .vertical{display: none;}
+  .heading-h3{font-weight: 900;font-size: 16px;line-height: 19px;}
+  .getsection {top: 337px;}
+}
